@@ -3,6 +3,6 @@ require 'pry'
 def plus_two(num)
 	num + 2
 	binding.pry
-num
+puts plus_two
 end
 
